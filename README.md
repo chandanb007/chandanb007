@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chandan
-- 👀 I’m interested in web development using php,laravel
+- 👀 I’m interested in web development using php,laravel,vuejs
 - 🌱 I’m currently learning Angular, react,phython
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects using vuejs,angular, react
 - 📫 How to reach me just drop an email on direct2bisht@gmail.com
 
 <!---
